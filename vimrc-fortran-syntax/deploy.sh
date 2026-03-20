@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-cp -rv .vimrc .vim/ ~/.
+cp -rv .vimrc .vim ~/.
