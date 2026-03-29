@@ -1,0 +1,5 @@
+[user]
+	name = Derick Carnazzola
+	email = maxediv@gmail.com
+[alias]
+	tree = log --color --graph --oneline --decorate
