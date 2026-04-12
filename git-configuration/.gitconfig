@@ -3,3 +3,4 @@
 	email = maxediv@gmail.com
 [alias]
 	tree = log --color --graph --oneline --decorate
+	treea = log --color --graph --oneline --decorate --all
